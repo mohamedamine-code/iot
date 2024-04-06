@@ -1,0 +1,181 @@
+body{
+    background-color:#353B74;
+}
+ul li a {
+    text-decoration: none;
+    color:white;
+}
+ul li{
+    list-style:none;
+    display:inline-block;
+}
+
+
+ul li a {
+    text-decoration: none;
+    color:white;
+}
+ul li{
+    list-style:none;
+    display:inline-block;
+}
+ul li a{
+    padding-left:40px;
+}
+.logo{
+    position: relative;
+    bottom:71px;
+}
+ul li .contact{
+    color:#EBAC06;
+}
+.menu{
+    position: relative;
+    left:58%;
+    bottom:21px;
+}
+nav{
+    background-color:#f3efeb4f;
+    border-radius:10px;
+    height:500px;
+}
+#box{
+    position: relative;
+    left:1006px;
+    bottom:121px;
+
+}
+.title{
+    color:white;
+    position: relative;
+    margin:10px;
+}
+
+.b1{
+    border-style:solid;
+    border-color: white;
+    border-radius:5px;
+    color:white;
+    padding:9px;
+    width:91px;
+    position: relative;
+    left: 20px;
+    padding-left: 40px;
+   
+}
+.b2{
+    border-style:solid;
+    border-color: white;
+    border-radius:5px;
+    color:white;
+    padding:9px;
+    width:91px;
+    position: relative;
+    left: 20px;
+    padding-left: 40px;
+    color:white;
+    background-color:#EBAC06 ;
+    border-color: #EBAC06;
+}
+.b{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    width: 20rem;
+
+    
+}
+
+.para{
+    width: 40rem;
+    font-size: 20px;
+    color: white;
+    line-height: 1.7;
+    font-family: 'Inter';
+
+}
+.allContent2{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.leftCard{
+    padding: 2rem;
+    width: 25rem;
+    height: 20rem;
+    display: flex;
+    margin-top: -3rem;
+    flex-direction: column;
+    justify-content: space-around;
+}
+h1{
+    color:white;
+    font-family:'Inter';
+    weight:700px;
+    font-size:60x;
+
+}
+#p2{
+width: 700px;;
+    font-size: 20px;
+    color: white;
+    line-height: 1.7;
+    font-family: 'Inter';
+    text-align: center;
+}
+.bloc{
+    display: flex;
+}
+#p3{
+    width: 700px;;
+        font-size: 20px;
+        color: white;
+        line-height: 50.5px;
+        font-family: 'Inter';
+        text-align: center;
+    }
+#p4{
+    width: 700px;;
+        font-size: 20px;
+        color: white;
+        line-height: 50.5px;
+        font-family: 'Inter';
+        text-align: center;
+}
+
+#bloc{
+    background-color: #f3efeb4f;
+    color:white;
+    width: 275.5px;
+    height:327px;
+    margin-top: 60px;
+    border-radius: 10px;
+
+}
+#p9{
+    margin-top:25px;
+    font-family: 'lato';
+    font-size: 30px;
+}
+#bloc h4{
+    margin-top: 221px;
+    margin-left: -10px;
+}
+
+.team{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.aa{
+    width:146.06px;
+    height:237.81px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+
+
